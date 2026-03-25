@@ -17,6 +17,7 @@
 - [ContentStudio](https://app.contentstudio.io) - Discover niche-relevant content and share it on your social media channels.
 - [SimilarWeb](http://www.similarweb.com/) - Discover your world rank and get information about traffic and referrals.
 - [SearchAttention](https://searchattention.com) - Optimize your content for AI Search Engines like Google AI Overview, Perplexity or SearchGPT.
+- [Cited By AI®](https://citedbyai.info) - Block-level AI citation auditing using the Citation Probability Score® (CPS®) framework. Identifies which content sections are cited by ChatGPT, Perplexity, Gemini, and Google AI Overviews.
 
 ## **Documentation and Guidelines**
 - [Applinks Documentation](http://applinks.org/documentation/) - Use meta tags to create deep links for your apps.
